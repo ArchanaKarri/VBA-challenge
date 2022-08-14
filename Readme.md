@@ -42,7 +42,7 @@ You can view the output in your data sheets in your Excel file in different colu
 
 The result should match the following image:
 
-!C:\Users\archa\OneDrive\Homework\Week2\image1.jpeg
+C:\Users\archa\OneDrive\Homework\Week2\image1.jpeg
 C:\Users\archa\OneDrive\Homework\Week2\image2.jpeg
 C:\Users\archa\OneDrive\Homework\Week2\image3.jpeg
 
